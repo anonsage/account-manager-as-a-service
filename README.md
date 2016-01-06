@@ -6,6 +6,7 @@ Account Manager As A Service
 ## Features
 
 - Easily handle user account, authentication, and payments
+- Privacy. Nobody else will have access to user accounts.
 - Easy pricing:
   - $0 (free) for the first 5,000 users.
   - $4/month for each additional 10,000 users (covers expenses for server storage/bandwidth/availability).
