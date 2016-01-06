@@ -7,7 +7,7 @@ Account Manager As A Service
 
 - Easily handle user account, authentication, and payments
 - Easy pricing:
-  - $0 (free) for the first 10,000 users.
+  - $0 (free) for the first 5,000 users.
   - $4/month for each additional 10,000 users (covers expenses for server storage/bandwidth/availability).
   - *Rates may rise in the future, but you can lock in your lower prices now.
 
